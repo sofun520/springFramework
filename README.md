@@ -1,4 +1,4 @@
-# springFramework
+# springmvc Framework
 springmvc框架：
 1、springmvc + maven +mybatis框架
 2、集成flyway sql脚本控制
